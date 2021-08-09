@@ -4,9 +4,7 @@ Vacuum formed and 3D printed transparent face mask with replaceable filters and 
 
 I've made and donated over 1000 opaque 3D printed masks that have been fit-tested and and particle tested with great results. Using the same shape and fundamental design, I spent 4 months designing a transparent mask that fits better, has more airflow and better filtration.
 
-<img src="Pictures/mask_front.jpg" width="300">
-<img src="Pictures/mask_side.jpg" width="300">
-<img src="Pictures/mask_rear.jpg" width="300">
+<img src="Pictures/mask_front.jpg" width="200"><img src="Pictures/mask_side.jpg" width="200"><img src="Pictures/mask_rear.jpg" width="200">
 
 Created by Geert Bevin <gbevin@uwyn.com>
 This work is freely distributed under the CC BY-SA 4.0 License.
