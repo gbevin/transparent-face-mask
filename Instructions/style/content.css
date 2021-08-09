@@ -1,0 +1,139 @@
+body {
+	color: black;
+	background-color: #f5f5fa;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, SunSans-Regular, sans-serif;
+	font-size: 12pt;
+}
+
+img {
+	border: 0 none;
+}
+
+#container {
+	width: 800px;
+	margin: 24px auto 8px auto;
+	border: 1px solid rgb(120, 137, 127);
+	background-color: white;
+}
+
+#copyright {
+	width: 800px;
+	margin: 0px auto 24px auto;
+	color: rgb(120, 137, 127);
+}
+
+#copyright a {
+	color: rgb(120, 137, 127);
+}
+
+#header {
+	margin: 4em auto 2em auto;
+	text-align: center;
+}
+
+#uwyn_logo {
+}
+
+#body_container {
+	margin: 0 1em;
+	position: relative;
+}
+
+#footer {
+	height: 1em;
+	clear: both;
+}
+
+.subtitle {
+	text-align: center;
+	font-size: 150%;
+	font-style: italic;
+	font-weight: bold;
+	color: rgb(4, 45, 86);
+}
+
+a {
+	color: rgb(68, 99, 129);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, SunSans-Regular, sans-serif;
+	color: rgb(4, 45, 86);
+	font-size: 18pt;
+	font-weight: normal;
+}
+
+h1 a {
+	color: rgb(4, 45, 86);
+}
+
+h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, SunSans-Regular, sans-serif;
+	color: rgb(208, 86, 39);
+	font-size: 12pt;
+	margin-bottom: 0;
+	font-weight: normal;
+}
+
+h2 a {
+	color: rgb(208, 86, 39);
+	text-decoration: none;
+}
+
+h2 a:hover {
+	text-decoration: underline;
+}
+
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, SunSans-Regular, sans-serif;
+	color: rgb(120, 137, 127);
+	font-size: 12pt;
+	margin-top: 0.3em;
+	font-weight: normal;
+}
+
+h4 {
+	font-family: "Trebuchet MS", Arial, Helvetica, SunSans-Regular, sans-serif;
+	color: rgb(4, 45, 86);
+	font-size: 12pt;
+}
+
+table {
+	border: 0 none;
+	border-collapse: collapse;
+	padding: 0;
+	margin: 0;
+}
+
+table td {
+	padding: 0.2em 1em;
+}
+
+td h2 {
+	margin: 0;
+	padding: 0;
+}
+
+label {
+	font-weight: bold;
+	color: #042D56;
+}
+
+.header {
+	margin-bottom: 1em;
+}
+
+strong {
+	color: rgb(4, 45, 86);
+}
+
+.spacedlist li {
+	line-height: 140%;
+}

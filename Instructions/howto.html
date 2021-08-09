@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+  -  Copyright 2020-2021 Geert Bevin <gbevin[remove] at uwyn dot com>
+  -  http://www.uwyn.com
+  -  All rights reserved.
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Uwyn, facemask, transparent, 3d printing, vacuum forming, open-source, clear mask, mask" />
+	<meta name="description" content="Build instructions for open-source transparent reusable face mask" />
+	<title>Uwyn - Transparent Mask Build Instructions</title>
+	<link rel="stylesheet" type="text/css" href="style/content.css" />
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+
+	<div id="container">
+
+		<div id="header">
+			<div id="uwyn_logo"><a href="http://uwyn.com"><img src="images/uwyn_logo.png" height="60" alt="Uwyn logo" /></a></div>
+		</div>
+		
+		<div id="body_container">
+			
+			<div id="body">
+
+				<p class="subtitle">
+					Transparent Reusable Face Mask<br/>Build Instructions
+				</p>
+
+				<h1>Introduction</h1>
+
+				<p>
+					During the 2020 COVID-19 pandemic, I (Geert Bevin) have made and donated over 1000 opaque 3D printed masks that have been fit-tested and and particle tested with great results. Using the same basic shape and fundamental design, I spent 4 months designing a transparent mask that fits better, has more airflow and better filtration.
+				</p>
+
+				<p>
+					<strong>NO GUARANTEES: This mask is not approved as N95 replacement and is not guaranteed to help against COVID-19 or any other disease.</strong>
+				</p>
+
+				<p>
+					These instructions will step you through how to make these transparent masks using the tools and equipment that are at my disposal. I've provided the design files and STL exports for you to be able to adapt these instructions to your own environment.
+				</p>
+
+				<p>
+					The latest version of these files is freely available under the CC BY-SA 4.0 License from here:<br/><a href="https://github.com/gbevin/transparent-face-mask">https://github.com/gbevin/transparent-face-mask</a>
+				</p>
+
+				<h1>Create the Mask Mold</h1>
+
+				<p>
+					The shell of the mask is designed to be transparent, light, flexible and shock resistant. The most viable small production technology to achieve this, turned out to be vacuum forming. This heats a sheet of clear PETG plastic and pulls it over a mold by creating a vacuum. Here, this mold is 3D printed and polished in order to achieve the highest possible clarity.
+				</p>
+
+				<p>
+					The heat of vacuum forming requires molds to be heat resistant, which needs to be taken into account when selecting the 3D printing technology and material used. Having FDM and MSLA printers available, FDM with polycarbonate filament was the best choice at my disposal. For these molds, I'm using a <a href="https://www.raise3d.com/e2/">Raise3D E2</a> printer and <a href="https://us.polymaker.com/product/polymax-pc/">Polymaker PolyMax PC</a> filament.
+				</p>
+
+				<p>
+					The print settings are:
+					<ul>
+						<li>Nozzle: 0.4mm</li>
+						<li>Layer: 0.1mm</li>
+						<li>Walls: 3</li>
+						<li>Infill: 30% Gyroid</li>
+						<li>Extruder temperature: 270&deg;C</li>
+						<li>Bed temperature: 100&deg;C</li>
+					</ul>
+				</p>
+
+				<p>
+					<img src="images/a-mold_01.jpg" width="380"/><img src="images/a-mold_02.jpg" width="380"/>
+				</p>
+
+				<p>
+					Once the mold is finished printing, it's important to sand and polish it to the finest smoothness possible because vacuum forming will transfer even the smallest imperfection to the plastic that's pulled over the mold.
+				</p>
+
+				<p>
+					Finishing the mold is a very labor intensive process as you manually go through a series of sand paper grits, I'm using the following in order: 80, 150, 220, 320, 400, 800, 1000, and 3000. Don't press too hard because there is a risk of separating filament layers and creating unintended holes as they come loose during sanding. You can achieve a very smooth finish by using Brasso for the last step with a microfiber cloth.
+				</p>
+
+				<p>
+					<img src="images/a-mold_03.jpg" width="253"/><img src="images/a-mold_04.jpg" width="253"/><img src="images/a-mold_05.jpg" width="253"/>
+					<img src="images/a-mold_06.jpg" width="253"/><img src="images/a-mold_07.jpg" width="253"/><img src="images/a-mold_08.jpg" width="253"/>
+					<img src="images/a-mold_09.jpg" width="253"/><img src="images/a-mold_10.jpg" width="253"/><img src="images/a-mold_11.jpg" width="253"/>
+					<img src="images/a-mold_12.jpg" width="253"/><img src="images/a-mold_13.jpg" width="253"/><img src="images/a-mold_14.jpg" width="253"/>
+				</p>
+
+				<h1>3D Print the Mask Inserts</h1>
+				<p>
+					<img src="images/b-inserts_01.jpg" width="380"/><img src="images/b-inserts_02.jpg" width="380"/>
+					<img src="images/b-inserts_03.jpg" width="380"/><img src="images/b-inserts_04.jpg" width="380"/>
+				</p>
+
+				<h1>Vacuum Form and Trim the Mask Shell</h1>
+				<p>
+					<img src="images/c-shell_01.jpg" width="380"/><img src="images/c-shell_02.jpg" width="380"/>
+					<img src="images/c-shell_03.jpg" width="380"/><img src="images/c-shell_04.jpg" width="380"/>
+					<img src="images/c-shell_05.jpg" width="380"/><img src="images/c-shell_06.jpg" width="380"/>
+					<img src="images/c-shell_07.jpg" width="380"/><img src="images/c-shell_08.jpg" width="380"/>
+					<img src="images/c-shell_09.jpg" width="380"/><img src="images/c-shell_10.jpg" width="380"/>
+				</p>
+
+				<h1>Glue the Seal to the Mask Shell</h1>
+				<p>
+					<img src="images/e-seal_01.jpg" width="380"/><img src="images/e-seal_02.jpg" width="380"/>
+					<img src="images/e-seal_03.jpg" width="380"/><img src="images/e-seal_04.jpg" width="380"/>
+					<img src="images/e-seal_05.jpg" width="380"/><img src="images/e-seal_06.jpg" width="380"/>
+					<img src="images/e-seal_07.jpg" width="380"/><img src="images/e-seal_08.jpg" width="380"/>
+					<img src="images/e-seal_09.jpg" width="380"/><img src="images/e-seal_10.jpg" width="380"/>
+				</p>
+			</div>
+			
+		</div>
+		
+		<div id="footer">&nbsp;</div>
+
+	</div>
+	
+	<div id="copyright">
+		&copy;2020-2021 Uwyn LLC - 
+		<a href="http://uwyn.com/privacy"><span>Privacy policy</span></a> -
+		<a href="http://uwyn.com/contact"><span>Contact</span></a>
+	</div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
