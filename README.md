@@ -6,7 +6,8 @@ I've made and donated over 1000 opaque 3D printed masks that have been fit-teste
 
 <img src="Pictures/mask_front.jpg" width="200"> <img src="Pictures/mask_side.jpg" width="200"> <img src="Pictures/mask_rear.jpg" width="200">
 
-Created by Geert Bevin <gbevin@uwyn.com>
+Created by Geert Bevin.
+
 This work is freely distributed under the CC BY-SA 4.0 License.
 
 If you want to support my efforts, please consider donating through:
@@ -25,6 +26,8 @@ http://paypal.me/geertbevin
 ## Sizing
 
 For masks sizing: measure down from the bridge of the nose to the bottom of the chin. Don't follow the curve, make sure to measure in a straight line, see photo.
+
+<img src="Pictures/mask_sizing.jpg" width="200">
 
 This is how the sizes relate to the measured length:
 * XL : length >= 5"
@@ -51,4 +54,4 @@ Outside use of the mask in cold temperatures will cause condensation and reduced
 
 ## Disclaimer
 
-*NO GUARANTEES:* This mask is not approved as N95 replacements and is not guaranteed to help against COVID-19 or any other disease. I have however done extensive research and the model I provide is the best I can create with my available tools and supplies.
+**NO GUARANTEES:** This mask is not approved as N95 replacements and is not guaranteed to help against COVID-19 or any other disease. I have however done extensive research and the model I provide is the best I can create with my available tools and supplies.
