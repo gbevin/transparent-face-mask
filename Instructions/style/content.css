@@ -67,7 +67,7 @@ h1 {
 	font-family: "Trebuchet MS", Arial, Helvetica, SunSans-Regular, sans-serif;
 	color: rgb(4, 45, 86);
 	font-size: 18pt;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 h1 a {
@@ -79,7 +79,7 @@ h2 {
 	color: rgb(208, 86, 39);
 	font-size: 12pt;
 	margin-bottom: 0;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 h2 a {
@@ -96,7 +96,7 @@ h3 {
 	color: rgb(120, 137, 127);
 	font-size: 12pt;
 	margin-top: 0.3em;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 h4 {
