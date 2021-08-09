@@ -19,6 +19,10 @@ The design was made with Moment of Inspiration: http://moi3d.com
 
 You'll find the `3dm` files in the `Design` folder.
 
+## Build Instructions
+
+Detailed instructions on how to build this mask is available in the [included howto](https://htmlpreview.github.io/?https://github.com/gbevin/transparent-face-mask/blob/master/Instructions/howto.html).
+
 ## Features
 
 * works with FaceID, might require setup of alternate appearance
