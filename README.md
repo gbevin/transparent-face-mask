@@ -13,6 +13,12 @@ This work is freely distributed under the CC BY-SA 4.0 License.
 If you want to support my efforts, please consider donating through:
 http://paypal.me/geertbevin
 
+## Design
+
+The design was made with Moment of Inspiration: http://moi3d.com
+
+You'll find the `3dm` files in the `Design` folder.
+
 ## Features
 
 * works with FaceID, might require setup of alternate appearance
