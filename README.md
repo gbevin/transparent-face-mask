@@ -31,7 +31,7 @@ Detailed instructions on how to build this mask is available in the [included ho
 * replaceable filters that can be cut from any flat filter material (shape templates included)
 * can be treated with temporary anti-fog spray
 * edge is lined with soft weather-sealing foam to create an excellent seal
-* flexible but rigid mask shell allows for comfortable facial muscle movements, you can smile and grimace again!
+* flexible but rigid mask shell allows for comfortable facial muscle movements
 
 ## Sizing
 
